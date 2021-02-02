@@ -1,8 +1,7 @@
 package boardgame;
 
 public class Board {
-
-//kjjgkjghglhljgj	
+	
 	private int rows;
 	private int columns;
 	private Piece[][] pieces;
